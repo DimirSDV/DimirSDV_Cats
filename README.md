@@ -77,4 +77,6 @@ cat3_grouped — большие категории 3 уровня, по кото
 Дмитрий Саханенко 	Капитан / презентация
 
 
+[Certificate.pdf](https://github.com/DimirSDV/DimirSDV_Cats/files/11880089/Certificate.pdf)
+
 
